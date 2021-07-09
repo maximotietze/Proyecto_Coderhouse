@@ -1,0 +1,259 @@
+.style-image-iphone12-purple {
+  width: 70%;
+}
+
+.logo-apple-navbar {
+  width: 50%;
+}
+
+.image-ipad-pro {
+  width: 80%;
+  margin-bottom: 10%;
+}
+
+.watch-fotos {
+  margin-top: 30%;
+  width: 100%;
+}
+
+.image-imac-style {
+  width: 90%;
+}
+
+.watchs-image {
+  margin-top: 5%;
+  width: 100%;
+}
+
+.images-apple-tv {
+  width: 100%;
+}
+
+.color-fondo-airpods-pro-max img {
+  width: 70%;
+}
+
+.image-Air-pods-max {
+  width: 100%;
+}
+
+.image-apple {
+  width: 27px;
+}
+
+.image-airPods {
+  width: 80%;
+}
+
+.size-images-support {
+  width: 50%;
+}
+
+.links-icons {
+  display: block;
+}
+
+.images-icons {
+  margin-top: 5%;
+  width: 15%;
+}
+
+.image-support {
+  width: 100%;
+}
+
+.apps-apple-tv-size-image {
+  margin-top: 5%;
+  width: 60%;
+}
+
+.iPads-images {
+  width: 50%;
+}
+
+.image-ipad {
+  width: 100%;
+}
+
+.ipad-pro-image-size {
+  width: 80%;
+}
+
+.conteiner-ipad-pro {
+  color: white;
+  background-color: black;
+}
+
+.color-background-watch-2 {
+  background-color: #f2f2f2;
+}
+
+.color-background-watch {
+  background-color: #f7f7f7;
+}
+
+.color-font-watch {
+  color: grey;
+}
+
+.color-fondo-airpods-pro-max {
+  background-color: #f5533e;
+  color: white;
+}
+
+.color-beats {
+  color: white;
+}
+
+.background-color-beats {
+  background-color: #323232;
+}
+
+.color-fondo {
+  background-color: #fafafa;
+}
+
+.color-font {
+  color: white;
+  background-color: black;
+}
+
+.background-color-support-2 {
+  background-color: #f8f8f8;
+}
+
+.color-background-tv-app-2 {
+  background-color: #f7f7f9;
+}
+
+.background-color-apple {
+  background-color: white;
+  color: black;
+}
+
+.color-conteiner {
+  background-color: #efe5ff;
+}
+
+.color-conteiner-2 {
+  background-color: grey;
+}
+
+.background-ipad-pro {
+  color: white;
+  background-color: black;
+}
+
+.background-color-support {
+  background-color: #f8f8f8;
+}
+
+.size-button-buy {
+  text-align: center;
+  white-space: nowrap;
+  font-size: 17px;
+  line-height: 1.17648;
+  font-weight: 400;
+  letter-spacing: -.022em;
+  border-color: transparent;
+  min-width: 28px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 22px;
+  background: #0071e3;
+  color: white;
+}
+
+.background-color-footer {
+  background-color: black;
+  color: white;
+}
+
+.logo-apple-footer {
+  width: 100%;
+}
+
+footer ul li {
+  list-style: none;
+}
+
+footer a {
+  color: grey;
+}
+
+footer a:hover {
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+  color: white;
+}
+
+footer li {
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+
+@media only screen and (min-width: 501px) {
+  .image-support {
+    width: 50%;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .logo-apple-footer {
+    width: 50%;
+  }
+}
+
+@media only screen and (max-width: 501px) {
+  .size-images-support {
+    width: 70%;
+  }
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.font-h2 {
+  font-size: 300%;
+}
+
+.index-learn-more {
+  font-size: 120%;
+}
+
+.size-font-watch {
+  font-weight: 800;
+}
+
+.h1-apple-tv {
+  font-weight: 1000;
+}
+
+.h1-tv {
+  margin-top: 5%;
+  font-weight: 800;
+}
+
+.h4-apple-tv {
+  font-weight: 700;
+}
+
+.h1-watch-size {
+  font-weight: bolder;
+}
+
+.index-buy {
+  font-size: 120%;
+  margin-left: 4%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+/*# sourceMappingURL=style2.css.map */

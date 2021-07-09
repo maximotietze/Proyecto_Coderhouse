@@ -1,0 +1,26 @@
+$color-background-color-15:red;
+
+p {
+    @if $color-background-color-15==red {
+        color: red;
+    }
+
+    @else if $color-background-color-15==blue {
+        color: blue;
+    }
+
+    @else {
+        color: default;
+    }
+}
+
+
+/* Creacion de clases para tener el tamaño de mis imagenes */
+@each $images in image-ipad,
+iPads-images,
+earpods-image {
+    #{$images}-image {
+        width: 100%;
+        ;
+    }
+}
