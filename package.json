@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Tietzee/Proyecto-Coderhouse/issues"
   },
-  "homepage": "https://github.com/Tietzee/Proyecto-Coderhouse#readme"
+  "homepage": "https://github.com/Tietzee/Proyecto-Coderhouse#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.2"
+  }
 }
