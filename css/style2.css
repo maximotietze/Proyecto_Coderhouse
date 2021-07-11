@@ -154,7 +154,7 @@
   font-size: 17px;
   line-height: 1.17648;
   font-weight: 400;
-  letter-spacing: -.022em;
+  letter-spacing: -0.022em;
   border-color: transparent;
   min-width: 28px;
   padding-left: 16px;
@@ -184,7 +184,6 @@ footer a {
 }
 
 footer a:hover {
-  -webkit-transition: 0.4s;
   transition: 0.4s;
   color: white;
 }
@@ -199,21 +198,18 @@ footer li {
     width: 50%;
   }
 }
-
 @media only screen and (max-width: 500px) {
   .logo-apple-footer {
     width: 50%;
   }
 }
-
 @media only screen and (max-width: 501px) {
   .size-images-support {
     width: 70%;
   }
 }
-
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 .font-h2 {
@@ -253,7 +249,7 @@ body {
 * {
   margin: 0;
   padding: 0;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
+
 /*# sourceMappingURL=style2.css.map */
