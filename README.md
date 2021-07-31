@@ -14,6 +14,14 @@
 
 ➡️SEO implementation throughout the entire project.
 
+➡️If you want to see the final result, you can click on any of the following links:
+
+   - Netlify: https://applecoderhouse.netlify.app/
+   - Github-Pages: https://tietzee.github.io/Proyecto-Coderhouse/
+
+🔴All future updates to the website can be seen only in those two links.
+
+
 # Coderhouse | Proyecto final basado en el sitio oficial de apple.
 
 🇪🇸
@@ -29,4 +37,11 @@
 ➡️Implementacion de la pagina 404 para el redireccionamiento.
 
 ➡️Implementacion de SEO a lo largo de todo el proyecto.
+
+➡️Si queres ver el resultado final, podes clickear en cualquiera de los siguientes links:
+
+   - Netlify: https://applecoderhouse.netlify.app/
+   - Github-Pages: https://tietzee.github.io/Proyecto-Coderhouse/
+
+🔴Las futuras actualizaciones al sitio web solo podran ser vistas en esos dos links.
 
