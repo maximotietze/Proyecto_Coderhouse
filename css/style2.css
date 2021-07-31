@@ -170,6 +170,12 @@
   color: white;
 }
 
+.size-button-buy:active {
+  -webkit-transition: 1s;
+  transition: 1s;
+  background-color: blue;
+}
+
 .background-color-footer {
   background-color: black;
   color: white;

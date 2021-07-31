@@ -15,3 +15,8 @@
     background: $color-background-color-9;
     color: $color-background-color-3;
 }
+
+.size-button-buy:active {
+    transition: 1s;
+    background-color: blue;
+}
