@@ -17,7 +17,7 @@
 ➡️If you want to see the final result, you can click on any of the following links:
 
    - Netlify: https://applecoderhouse.netlify.app/
-   - Github-Pages: https://tietzee.github.io/Proyecto-Coderhouse/
+   - Github-Pages: https://tietzee.github.io/Proyecto_Coderhouse/
 
 🔴All future updates to the website can be seen only in those two links.
 
@@ -41,7 +41,7 @@
 ➡️Si queres ver el resultado final, podes clickear en cualquiera de los siguientes links:
 
    - Netlify: https://applecoderhouse.netlify.app/
-   - Github-Pages: https://tietzee.github.io/Proyecto-Coderhouse/
+   - Github-Pages: https://tietzee.github.io/Proyecto_Coderhouse/
 
 🔴Las futuras actualizaciones al sitio web solo podran ser vistas en esos dos links.
 
